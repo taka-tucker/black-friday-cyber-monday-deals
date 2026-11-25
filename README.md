@@ -104,6 +104,7 @@ We'd greatly appreciate if you could:
 | [inReels.ai](https://www.inreels.ai) | Create stunning videos in seconds using AI. Turn text, PDFs, or images into videos. Repurpose content for YouTube, TikTok, Reels, and more | **BLACKFRIDAY2026** - 50% off yearly plans | Ends about Dec 1 | ✅ |
 | [SharpAPI](https://sharpapi.com/en/pricing) | AI workflow automation API for product descriptions, resume parsing, job match scoring, SEO tags, and more | **BF2026** - 40% off every plan, valid 12 months | Ends Nov 30 | ✅ |
 | [GoStudio.ai](https://www.gostudio.ai/?ref=greatfrontend) | Create custom, studio-quality AI headshots and branded portraits in minutes—perfect for founders, creators, and professionals who want high-credibility visuals without photoshoots | 30% off | Ends Dec 1 | ✅ |
+| [Screenpipe](https://screenpipe.com/black-friday?utm_source=github&utm_medium=deal-list&utm_campaign=black_friday_2026&utm_content=greatfrontend) | AI that knows everything you’ve seen, said, or heard: local screen + audio capture turned into searchable memory, skills and workflows for Claude, Codex, Cursor and your team. macOS, Windows, Linux | **20% OFF** first year of annual plans — Basic $250 → $200, Business $500 → $400/seat, no code needed | Ends Nov 30 | [:white_check_mark:](https://a.slack-edge.com/production-standard-emoji-assets/17.0/apple-medium/2705@2x.png) |
 
 ## Design kits
 
